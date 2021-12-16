@@ -2,6 +2,8 @@
 
 Spotifi is a data base based on a music reproducer which is totally different from Spotify 🙄
 
+![Diagram](https://raw.githubusercontent.com/ramiromiguez/Solvd-MySQL-Project/main/diagram.JPG)
+
 ## Explanation of tables
 
 artist: Contains the info of the artist.
@@ -56,3 +58,4 @@ playlist_followed-> playlist, user
 user-> playlist, playlist_followed, user_followed, song liked
 
 user_followed-> user
+
