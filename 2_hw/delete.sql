@@ -1,0 +1,11 @@
+SET SQL_SAFE_UPDATES = 0;
+DELETE FROM playlist_followed WHERE user_id = 1;
+DELETE FROM playlist_followed WHERE user_id > 2;
+DELETE FROM playlist_followed;
+DELETE FROM artist_singles WHERE song_id > 5;
+DELETE FROM artist_singles WHERE artist_id < 5;
+DELETE FROM artist_singles;
+DELETE FROM playlist_content WHERE song_id = 1;
+DELETE FROM playlist_content WHERE song_id = 6;
+DELETE FROM playlist_content WHERE artist_id > 3;
+DELETE FROM playlist_content;
