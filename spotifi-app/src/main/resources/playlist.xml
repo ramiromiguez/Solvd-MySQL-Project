@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlists>
+	<playlist id="1">
+    	<name>Rock playlist</name>
+    	<date>2019/02/19</date>
+    	<userId>3</userId>
+    </playlist>
+
+	<playlist id="2">
+    	<name>Trap playlist</name>
+    	<date>2020/04/22</date>
+    	<userId>2</userId>
+    </playlist>
+    
+    <playlist id="3">
+    	<name>Jazz playlist</name>
+    	<date>2021/12/19</date>
+    	<userId>1</userId>
+    </playlist>
+</playlists>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<artist id="1">
+    	<name>Oracle</name>
+    	<duration>1</duration>
+    	<genreId>2</genreId>
+    	<artistId>1</artistId>
+    </artist>
+
+	<artist id="2">
+    	<name>El cuenta cuentos</name>
+    	<duration>1</duration>
+    	<genreId>2</genreId>
+    	<artistId>1</artistId>
+    </artist>
+    
+    <artist id="3">
+    	<name>Light my fire</name>
+    	<duration>1</duration>
+    	<genreId>2</genreId>
+    	<artistId>1</artistId>
+    </artist>
+</songs>

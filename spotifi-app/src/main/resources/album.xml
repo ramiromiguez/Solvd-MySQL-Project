@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artists>
+	<artist id="1">
+    	<name>Grey Days</name>
+    	<artistId>5</artistId>
+    	<genreId>1</genreId>
+    	<albumLength>7</albumLength>
+    </artist>
+
+	<artist id="2">
+    	<name>Writing Classics</name>
+    	<countryId>9</countryId>
+    	<genreId>4</genreId>
+    	<albumLength>6</albumLength>
+  	</artist>
+</artists>
