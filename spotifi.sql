@@ -145,9 +145,9 @@ INSERT INTO `song` (`song_name`, `song_duration`, `genre_id`, `artist_id`) VALUE
 
 INSERT INTO `artist_singles` (`artist_id`, `song_id`) VALUES (6, 12);
 
-INSERT INTO `user` (`user_name`, `user_birth`) VALUES ("Ramiro", 16/08/1999);
-INSERT INTO `user` (`user_name`, `user_birth`) VALUES ("Manuel", 30/01/2004);
-INSERT INTO `user` (`user_name`, `user_birth`) VALUES ("Sergey", 22/01/1997);
+INSERT INTO `user` (`user_name`, `user_birth`) VALUES ("Ramiro", "1999/08/16");
+INSERT INTO `user` (`user_name`, `user_birth`) VALUES ("Manuel", "2004/12/30");
+INSERT INTO `user` (`user_name`, `user_birth`) VALUES ("Sergey", "1997/02/12");
 
 INSERT INTO `user_followed` (`user_id`, `userf_id`) VALUES (1, 2);
 INSERT INTO `user_followed` (`user_id`, `userf_id`) VALUES (2, 1);
