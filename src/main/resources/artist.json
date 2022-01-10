@@ -1,0 +1,168 @@
+{
+  "artists": {
+    "Paco Amoroso": 
+      {
+        "id": "1",
+        "country": {
+          "id": "2",
+          "name": "Argentina"
+        },
+        "genre": {
+          "id": "1",
+          "name": "Trap"
+        },
+        "singleList": [
+          {
+            "id": "1",
+            "name": "Chinga Sport",
+            "duration": "2.14",
+            "genre": {
+              "id": "1",
+              "name": "Trap"
+            }
+          }
+        ],
+        "albumList": []
+      },
+      "Catriel":{
+        "id": "2",
+        "country": {
+          "id": "2",
+          "name": "Argentina"
+        },
+        "genre": {
+          "id": "1",
+          "name": "Trap"
+        },
+        "singleList": [
+          {
+            "id": "2",
+            "name": "Para la Forever",
+            "duration": "3.13",
+            "genre": {
+              "id": "1",
+              "name": "Trap"
+            }
+          }
+        ],
+        "albumList": []
+      },
+      "Dillom":{
+        "id": "3",
+        "country": {
+          "id": "2",
+          "name": "Argentina"
+        },
+        "genre": {
+          "id": "1",
+          "name": "Trap"
+        },
+      "singleList":[
+          {
+            "id": "3",
+            "name": "La primera",
+            "duration": "3.19",
+            "genre": {
+              "id": "1",
+              "name": "Trap"
+            }
+          }
+       ],
+       "albumList": []
+      },
+      "Suicide Boys":{
+        "id": "4",
+        "country": {
+          "id": "1",
+          "name": "United States"
+        },
+        "genre": {
+          "id": "1",
+          "name": "Trap"
+        },
+        "singleList": [],
+        "albumList": {
+          "albums": {
+            "Grey Days": {
+              "id": "1",
+              "Suicide Boys": {
+                "id": "4",
+             
+                "United States": {
+                  "id": "1",
+                  
+                
+                "Trap": {
+                  "id": "1",
+                  "name": "Trap"
+                }
+              },
+              "genre": {
+                "id": "1",
+                "name": "Trap"
+              },
+              "albumLength": "6",
+              "songsList": [
+                  {
+                  	"name": "Black beard",
+                    "id": "4",
+                    "duration": "3.2",
+                    "genre": {
+                      "id": "1",
+                      "name":"Trap"           
+                    }
+                  },
+                  {
+                  	"name": "Broken",
+                    "id": "5",            
+                    "duration": "2.0",
+                    "genre": {
+                      "id": "1",
+                      "name":"Trap"
+                    }
+                  },
+                  {
+                  	"name":"The crescent moon",
+                    "id": "6",
+                    "duration": "2.0",
+                    "Genre": {
+                      "id": "1",
+                      "name":"Trap"                     
+                    }
+                  },
+                  {
+                  "name":"Everest",
+                    "id": "7",                   
+                    "duration": "2.0",
+                    "genre": {                  
+                     "id": "1",
+                     "name":"Trap"                     
+                    }
+                  },
+                  {
+                  "name":"Let em burn",
+                    "id": "8",
+                    
+                    "duration": "2.0",
+                    "genre": {
+                      "id": "1", 
+                      "name": "Trap"                  
+                    }
+                  },
+                 {
+                 "name":"Second coming",
+                    "id": "9",                 
+                    "duration": "2.0",
+                    "genre": {
+                      "id": "1",
+                      "name": "Trap"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+  }
+}

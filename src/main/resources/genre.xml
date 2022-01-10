@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genres>
+	<genre id="1">
+    	<name>Trap</name>
+    </genre>
+	<genre id="2">
+    	<name>Psytrance</name>
+  	</genre>
+  	<genre id="3">
+    	<name>Heavy Metal</name>
+  	</genre>
+  	<genre id="4">
+    	<name>Rap</name>
+  	</genre>
+  	<genre id="5">
+    	<name>Rock</name>
+  	</genre>
+</genres>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artists>
+  <artist id="1">
+    <name>Paco Amoroso</name>
+    <country id="2">
+      <name>Argentina</name>
+    </country>
+    <genre id="1">
+      <name>Trap</name>
+    </genre>
+    <singleList>
+      <song id="1">
+        <name>Chinga Sport</name>
+        <duration>2.14</duration>
+        <genre id="1">
+          <name>Trap</name>
+        </genre>
+      </song>
+    </singleList>
+    <albumList>
+    </albumList>
+  </artist>
+  <artist id="2">
+    <name>Catriel</name>
+    <country id="2">
+      <name>Argentina</name>
+    </country>
+    <genre id="1">
+      <name>Trap</name>
+    </genre>
+    <singleList>
+      <song id="2">
+        <name>Para la Forever</name>
+        <duration>3.13</duration>
+        <genre id="1">
+          <name>Trap</name>
+        </genre>
+      </song>
+    </singleList>
+    <albumList>
+    </albumList>
+  </artist>
+  <artist id="3">
+    <name>Dillom</name>
+    <country id="2">
+      <name>Argentina</name>
+    </country>
+    <genre id="1">
+      <name>Trap</name>
+    </genre>
+    <singleList>
+      <song id="3">
+        <name>La primera</name>
+        <duration>3.19</duration>
+        <genre id="1">
+          <name>Trap</name>
+        </genre>
+      </song>
+    </singleList>
+  </artist>
+  <artist id="4">
+    <name>Suicide Boys</name>
+    <country id="1">
+      <name>United States</name>
+    </country>
+    <genre id="1">
+      <name>Trap</name>
+    </genre>
+    <singleList>
+    </singleList>
+    <albumList>
+      <albums>
+        <album id="1">
+          <name>Grey Days</name>
+          <artist id="4">
+            <name>Suicide Boys</name>
+            <country id="1">
+              <name>United States</name>
+            </country>
+            <genre id="1">
+              <name>Trap</name>
+            </genre>
+          </artist>
+          <genre id="1">
+            <name>Trap</name>
+          </genre>
+          <albumLength>6</albumLength>
+          <songsList>
+            <song id="4">
+              <name>Black beard</name>
+              <duration>3.2</duration>
+              <genre id="1">
+                <name>Trap</name>
+              </genre>
+            </song>
+            <song id="5">
+              <name>Broken</name>
+              <duration>2.0</duration>
+              <genre id="1">
+                <name>Trap</name>
+              </genre>
+            </song>
+            <song id="6">
+              <name>The crescent moon</name>
+              <duration>2.0</duration>
+              <genre id="1">
+                <name>Trap</name>
+              </genre>
+            </song>
+            <song id="7">
+              <name>Everest</name>
+              <duration>2.0</duration>
+              <genre id="1">
+                <name>Trap</name>
+              </genre>
+            </song>
+            <song id="8">
+              <name>Let em burn</name>
+              <duration>2.0</duration>
+              <genre id="1">
+                <name>Trap</name>
+              </genre>
+            </song>
+            <song id="9">
+              <name>Second coming</name>
+              <duration>2.0</duration>
+              <genre id="1">
+                <name>Trap</name>
+              </genre>
+            </song>
+          </songsList>
+        </album>
+      </albums>
+    </albumList>
+  </artist>
+</artists>
