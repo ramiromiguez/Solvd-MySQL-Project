@@ -1,0 +1,19 @@
+{
+   "Genres":{
+      "trap":{
+         "id":"1"
+      },
+      "Psytrance":{
+         "id":"2"
+      },
+      "Heavy Metal":{
+         "id":"3"
+      },
+      "Rap":{
+         "id":"4"
+      },
+      "Rock":{
+         "id":"5"
+      }
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "Songs":{
+      "Chinga Sport":{
+         "id":"1",
+         "artist":{
+            "id":"1",
+            "name":"Paco Amoroso",
+            "country":{
+               "id":"2",
+               "name":"Argentina"
+            },
+            "genre":{
+               "id":"1",
+               "name":"Trap"
+            }
+         }
+      },
+      "Para la Forever":{
+         "id":"2",
+         "artist":{
+            "id":"2",
+            "name":"Catriel",
+            "country":{
+               "id":"2",
+               "name":"Argentina"
+            },
+            "genre":{
+               "id":"1",
+               "name":"Trap"
+            }
+         }
+      },
+      "La primera":{
+         "id":"3",
+         "artist":{
+            "id":"3",
+            "name":"Dillom",
+            "country":{
+               "id":"2",
+               "name":"Argentina"
+            },
+            "genre":{
+               "id":"1",
+               "name":"Trap"
+            }
+         }
+      },
+      "Black beard":{
+         "id":"4",
+         "artist":{
+            "id":"4",
+            "name":"Suicide Boys",
+            "country":{
+               "id":"1",
+               "name":"United States"
+            },
+            "genre":{
+               "id":"1",
+               "name":"Trap"
+            }
+         }
+      },
+      "Broken":{
+         "artist":{
+            "id":"4",
+            "name":"Suicide Boys",
+            "country":{
+               "id":"1",
+               "name":"United States"
+            },
+            "genre":{
+               "id":"1",
+               "name":"Trap"
+            }
+         }
+      },
+      "The crescent moon":{
+         "artist":{
+            "id":"4",
+            "name":"Suicide Boys",
+            "country":{
+               "id":"1",
+               "name":"United States"
+            },
+            "genre":{
+               "id":"1",
+               "name":"Trap"
+            }
+         }
+      },
+      "Everest":{
+         "artist":{
+            "id":"4",
+            "name":"Suicide Boys",
+            "country":{
+               "id":"1",
+               "name":"United States"
+            },
+            "genre":{
+               "id":"1",
+               "name":"Trap"
+            }
+         }
+      },
+      "Let em burn":{
+         "artist":{
+            "id":"4",
+            "name":"Suicide Boys",
+            "country":{
+               "id":"1",
+               "name":"United States"
+            },
+            "genre":{
+               "id":"1",
+               "name":"Trap"
+            }
+         }
+      },
+      "Second coming":{
+         "artist":{
+            "id":"4",
+            "name":"Suicide Boys",
+            "country":{
+               "id":"1",
+               "name":"United States"
+            },
+            "genre":{
+               "id":"1",
+               "name":"Trap"
+            }
+         }
+      }
+   }
+}
