@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albums>
+  <album id="1">
+    <name>Grey Days</name>
+    <artist id="4">
+      <name>Suicide Boys</name>
+      <country id="1">
+        <name>United States</name>
+      </country>
+      <genre id="1">
+        <name>Trap</name>
+      </genre>
+    </artist>
+    <genre id="1">
+      <name>Trap</name>
+    </genre>
+    <albumLength>6</albumLength>
+    <songsList>
+      <song id="4">
+        <name>Black beard</name>
+        <duration>3.2</duration>
+        <genre id="1">
+          <name>Trap</name>
+        </genre>
+      </song>
+      <song id="5">
+        <name>Broken</name>
+        <duration>2.0</duration>
+        <genre id="1">
+          <name>Trap</name>
+        </genre>
+      </song>
+      <song id="6">
+        <name>The crescent moon</name>
+        <duration>2.0</duration>
+        <genre id="1">
+          <name>Trap</name>
+        </genre>
+      </song>
+      <song id="7">
+        <name>Everest</name>
+        <duration>2.0</duration>
+        <genre id="1">
+          <name>Trap</name>
+        </genre>
+      </song>
+      <song id="8">
+        <name>Let em burn</name>
+        <duration>2.0</duration>
+        <genre id="1">
+          <name>Trap</name>
+        </genre>
+      </song>
+      <song id="9">
+        <name>Second coming</name>
+        <duration>2.0</duration>
+        <genre id="1">
+          <name>Trap</name>
+        </genre>
+      </song>
+    </songsList>
+  </album>
+</albums>
